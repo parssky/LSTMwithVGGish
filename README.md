@@ -1,3 +1,5 @@
+***Chere HERE:
+https://medium.com/@spacenavard1/audio-processing-with-lstm-vggish-example-story-138f154162d7
 ---
 
 Audio Processing with LSTM & VGGish (example story)
